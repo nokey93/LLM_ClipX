@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <pl />
+ <o name="New project 1" type="clipprj.project" id="0">
+  <pl>
+   <p name="clipprj.gapBetweenItems">0.03</p>
+  </pl>
+  <ol>
+   <o name="Schiene 1" type="clipprj.rail" id="1">
+    <pl>
+     <p name="clipprj.articleNumber">1401763</p>
+     <p name="clipprj.articleDesignation">NS 15 AL PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="2">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">74</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="3">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="4">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">76</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 2" type="clipprj.rail" id="5">
+    <pl>
+     <p name="clipprj.articleNumber">1401608</p>
+     <p name="clipprj.articleDesignation">NS 15 BLK PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="6">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">81</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="7">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="8">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">83</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 3" type="clipprj.rail" id="9">
+    <pl>
+     <p name="clipprj.articleNumber">1401789</p>
+     <p name="clipprj.articleDesignation">NS 15 BLK UNPERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="10">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">88</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="11">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="12">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">90</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 4" type="clipprj.rail" id="13">
+    <pl>
+     <p name="clipprj.articleNumber">1401682</p>
+     <p name="clipprj.articleDesignation">NS 15 PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="14">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">95</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="15">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="16">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">97</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 5" type="clipprj.rail" id="17">
+    <pl>
+     <p name="clipprj.articleNumber">1401695</p>
+     <p name="clipprj.articleDesignation">NS 15 UNPERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="18">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">102</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="19">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="20">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">104</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 6" type="clipprj.rail" id="21">
+    <pl>
+     <p name="clipprj.articleNumber">1204096</p>
+     <p name="clipprj.articleDesignation">NS 15 WH PERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="22">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">109</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="23">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="24">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">15.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">111</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 7" type="clipprj.rail" id="25">
+    <pl>
+     <p name="clipprj.articleNumber">0814681</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 AL PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="26">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">116</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="27">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="28">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">118</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 8" type="clipprj.rail" id="29">
+    <pl>
+     <p name="clipprj.articleNumber">0843107</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 AL PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="30">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">123</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="31">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="32">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">125</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 9" type="clipprj.rail" id="33">
+    <pl>
+     <p name="clipprj.articleNumber">0801704</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 AL UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="34">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">130</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="35">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="36">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">132</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 10" type="clipprj.rail" id="37">
+    <pl>
+     <p name="clipprj.articleNumber">0843102</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 AL UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="38">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">137</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="39">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="40">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">139</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 11" type="clipprj.rail" id="41">
+    <pl>
+     <p name="clipprj.articleNumber">0801759</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 BLK PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="42">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">144</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="43">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="44">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">146</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 12" type="clipprj.rail" id="45">
+    <pl>
+     <p name="clipprj.articleNumber">0843104</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 BLK PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="46">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">151</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="47">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="48">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">153</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 13" type="clipprj.rail" id="49">
+    <pl>
+     <p name="clipprj.articleNumber">0801775</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 BLK UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="50">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">158</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="51">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="52">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">160</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 14" type="clipprj.rail" id="53">
+    <pl>
+     <p name="clipprj.articleNumber">0843106</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 BLK UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="54">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">165</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="55">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="56">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">167</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 15" type="clipprj.rail" id="57">
+    <pl>
+     <p name="clipprj.articleNumber">0801762</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 CU UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="58">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">172</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="59">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="60">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">174</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 16" type="clipprj.rail" id="61">
+    <pl>
+     <p name="clipprj.articleNumber">1207640</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF  755MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="62">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">179</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="63">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="64">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">181</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 17" type="clipprj.rail" id="65">
+    <pl>
+     <p name="clipprj.articleNumber">1207653</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF  955MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="66">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">186</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="67">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="68">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">188</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 18" type="clipprj.rail" id="69">
+    <pl>
+     <p name="clipprj.articleNumber">1207666</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF 1155MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="70">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">193</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="71">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="72">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">195</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 19" type="clipprj.rail" id="73">
+    <pl>
+     <p name="clipprj.articleNumber">0801733</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="74">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">200</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="75">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="76">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">202</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 20" type="clipprj.rail" id="77">
+    <pl>
+     <p name="clipprj.articleNumber">0843110</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF 2000MM NZ REF CUT-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="78">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">207</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="79">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="80">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">209</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 21" type="clipprj.rail" id="81">
+    <pl>
+     <p name="clipprj.articleNumber">0843103</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="82">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">214</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="83">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="84">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">216</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 22" type="clipprj.rail" id="85">
+    <pl>
+     <p name="clipprj.articleNumber">1210019</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF (18X5,2)2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="86">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">221</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="87">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="88">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">223</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 23" type="clipprj.rail" id="89">
+    <pl>
+     <p name="clipprj.articleNumber">0843111</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF (18X5,2)2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="90">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">228</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="91">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="92">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">230</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 24" type="clipprj.rail" id="93">
+    <pl>
+     <p name="clipprj.articleNumber">0801681</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="94">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">235</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="95">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="96">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">237</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 25" type="clipprj.rail" id="97">
+    <pl>
+     <p name="clipprj.articleNumber">1204125</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 UNPERF 2000MM O.LOGO</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="98">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">242</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="99">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="100">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">244</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 26" type="clipprj.rail" id="101">
+    <pl>
+     <p name="clipprj.articleNumber">0843109</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 UNPERF 2000MM O.LOGO-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="102">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">249</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="103">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="104">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">251</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 27" type="clipprj.rail" id="105">
+    <pl>
+     <p name="clipprj.articleNumber">0843101</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="106">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">256</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="107">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="108">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">258</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 28" type="clipprj.rail" id="109">
+    <pl>
+     <p name="clipprj.articleNumber">0801377</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 V2A UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="110">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">263</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="111">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="112">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">265</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 29" type="clipprj.rail" id="113">
+    <pl>
+     <p name="clipprj.articleNumber">0843100</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 V2A UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="114">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">270</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="115">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="116">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">272</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 30" type="clipprj.rail" id="117">
+    <pl>
+     <p name="clipprj.articleNumber">1204119</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 WH PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="118">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">277</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="119">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="120">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">279</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 31" type="clipprj.rail" id="121">
+    <pl>
+     <p name="clipprj.articleNumber">0843116</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 WH PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="122">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">284</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="123">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="124">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">286</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 32" type="clipprj.rail" id="125">
+    <pl>
+     <p name="clipprj.articleNumber">1206418</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 WH PERF(5,2X25)2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="126">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">291</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="127">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="128">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">293</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 33" type="clipprj.rail" id="129">
+    <pl>
+     <p name="clipprj.articleNumber">1204122</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 WH UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="130">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">298</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="131">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="132">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">300</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 34" type="clipprj.rail" id="133">
+    <pl>
+     <p name="clipprj.articleNumber">1206421</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 ZN PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="134">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">305</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="135">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="136">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">307</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 35" type="clipprj.rail" id="137">
+    <pl>
+     <p name="clipprj.articleNumber">0843118</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 ZN PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="138">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">312</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="139">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="140">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">314</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 36" type="clipprj.rail" id="141">
+    <pl>
+     <p name="clipprj.articleNumber">1206434</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 ZN UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="142">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">319</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="143">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="144">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">321</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 37" type="clipprj.rail" id="145">
+    <pl>
+     <p name="clipprj.articleNumber">0843119</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 ZN UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="146">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">326</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="147">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="148">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">328</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 38" type="clipprj.rail" id="149">
+    <pl>
+     <p name="clipprj.articleNumber">1201756</p>
+     <p name="clipprj.articleDesignation">NS 35/15 AL UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="150">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">333</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="151">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="152">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">335</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 39" type="clipprj.rail" id="153">
+    <pl>
+     <p name="clipprj.articleNumber">1208018</p>
+     <p name="clipprj.articleDesignation">NS 35/15 BLK PERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="154">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">340</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="155">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="156">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">342</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 40" type="clipprj.rail" id="157">
+    <pl>
+     <p name="clipprj.articleNumber">1201701</p>
+     <p name="clipprj.articleDesignation">NS 35/15 BLK UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="158">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">347</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="159">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="160">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">349</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 41" type="clipprj.rail" id="161">
+    <pl>
+     <p name="clipprj.articleNumber">1201895</p>
+     <p name="clipprj.articleDesignation">NS 35/15 CU UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="162">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">354</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="163">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="164">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">356</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 42" type="clipprj.rail" id="165">
+    <pl>
+     <p name="clipprj.articleNumber">1207679</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF  755MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="166">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">361</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="167">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="168">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">363</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 43" type="clipprj.rail" id="169">
+    <pl>
+     <p name="clipprj.articleNumber">1207682</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF  955MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="170">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">368</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="171">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="172">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">370</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 44" type="clipprj.rail" id="173">
+    <pl>
+     <p name="clipprj.articleNumber">1207695</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF 1155MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="174">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">375</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="175">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="176">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">377</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 45" type="clipprj.rail" id="177">
+    <pl>
+     <p name="clipprj.articleNumber">1201730</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="178">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">382</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="179">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="180">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">384</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 46" type="clipprj.rail" id="181">
+    <pl>
+     <p name="clipprj.articleNumber">0843113</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="182">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">389</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="183">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="184">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">391</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 47" type="clipprj.rail" id="185">
+    <pl>
+     <p name="clipprj.articleNumber">1210006</p>
+     <p name="clipprj.articleDesignation">NS 35/15 PERF (18X5,2) 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="186">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">396</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="187">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="188">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">398</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 48" type="clipprj.rail" id="189">
+    <pl>
+     <p name="clipprj.articleNumber">1201714</p>
+     <p name="clipprj.articleDesignation">NS 35/15 UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="190">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">403</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="191">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="192">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">405</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 49" type="clipprj.rail" id="193">
+    <pl>
+     <p name="clipprj.articleNumber">0843112</p>
+     <p name="clipprj.articleDesignation">NS 35/15 UNPERF 2000MM - VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="194">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">410</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="195">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="196">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">412</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 50" type="clipprj.rail" id="197">
+    <pl>
+     <p name="clipprj.articleNumber">0806602</p>
+     <p name="clipprj.articleDesignation">NS 35/15 WH PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="198">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">417</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="199">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="200">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">419</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 51" type="clipprj.rail" id="201">
+    <pl>
+     <p name="clipprj.articleNumber">0843108</p>
+     <p name="clipprj.articleDesignation">NS 35/15 WH PERF 2000MM VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="202">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">424</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="203">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="204">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">426</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 52" type="clipprj.rail" id="205">
+    <pl>
+     <p name="clipprj.articleNumber">1206476</p>
+     <p name="clipprj.articleDesignation">NS 35/15 WH PERF(5,2X25)2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="206">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">431</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="207">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="208">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">433</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 53" type="clipprj.rail" id="209">
+    <pl>
+     <p name="clipprj.articleNumber">0843114</p>
+     <p name="clipprj.articleDesignation">NS 35/15 WH PERF(5,2X25)2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="210">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">438</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="211">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="212">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">440</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 54" type="clipprj.rail" id="213">
+    <pl>
+     <p name="clipprj.articleNumber">1204135</p>
+     <p name="clipprj.articleDesignation">NS 35/15 WH UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="214">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">445</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="215">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="216">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">447</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 55" type="clipprj.rail" id="217">
+    <pl>
+     <p name="clipprj.articleNumber">1206599</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN PERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="218">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">452</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="219">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="220">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">454</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 56" type="clipprj.rail" id="221">
+    <pl>
+     <p name="clipprj.articleNumber">0843121</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN PERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="222">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">459</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="223">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="224">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">461</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 57" type="clipprj.rail" id="225">
+    <pl>
+     <p name="clipprj.articleNumber">3240571</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN PERF(18X5,2)2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="226">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">466</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="227">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="228">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">468</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 58" type="clipprj.rail" id="229">
+    <pl>
+     <p name="clipprj.articleNumber">1206586</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN UNPERF 2000MM</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="230">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">473</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="231">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="232">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">475</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 59" type="clipprj.rail" id="233">
+    <pl>
+     <p name="clipprj.articleNumber">0843115</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="234">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">480</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="235">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="236">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">482</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="Schiene 60" type="clipprj.rail" id="237">
+    <pl>
+     <p name="clipprj.articleNumber">1201798</p>
+     <p name="clipprj.articleDesignation">NS 35/15-2,3 UNPERF 2000MM-VPE 10</p>
+     <p name="clipprj.length">300.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="238">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">487</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="239">
+      <pl>
+       <p name="clipprj.width">259.94</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="240">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">489</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+  </ol>
+ </o>
+</pbf>
