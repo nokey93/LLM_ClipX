@@ -1,0 +1,75 @@
+<pbf version="2.1" format="ecad"
+     xsi:noNameSpaceSchemaLocation="pbf.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Global (project level) parameters ---------------------------------- -->
+  <pl/>
+  <o name="{PROJECT_NAME}" type="clipprj.project" id="0">
+    <pl>
+      <!-- gap between adjacent items on every rail (mm) -->
+      <p name="clipprj.gapBetweenItems">{GAP_BETWEEN_ITEMS}</p>
+    </pl>
+
+    <!-- All rails are children of this ordered list element -------------- -->
+    <ol>
+      <!-- =============== BEGIN RAIL LOOP ============================= -->
+      {RAILS_BLOCK}
+      <!-- =============== END RAIL LOOP =============================== -->
+    </ol>
+  </o>
+
+  <!-- Cross reference table (ClipX requires at least one <ref>) --------- -->
+  <refs>
+    {REFS_BLOCK}
+  </refs>
+</pbf>
+
+<!-- ---------------------------------------------------------------------
+     Template snippets you can repeat / substitute into {RAILS_BLOCK}
+     ------------------------------------------------------------------ -->
+<!--
+  ► Rail block (one per physical rail) ───────────────────────────────────
+<o name="Schiene {RAIL_INDEX}" type="clipprj.rail" id="{RAIL_ID}">
+  <pl>
+    <p name="clipprj.articleNumber">{RAIL_ARTICLE}</p>
+    <p name="clipprj.articleDesignation">{RAIL_DESIGNATION}</p>
+    <p name="clipprj.length">{RAIL_LENGTH}</p>
+  </pl>
+  <ol>
+    <!-- mandatory left spacing -->
+    <o name="" type="clipprj.mountingSpacingLeft" id="{LEFT_SPACING_ID}">
+      <pl>
+        <p name="clipprj.width">{LEFT_WIDTH}</p>
+        <p name="clipprj.height">{RAIL_HEIGHT}</p>
+        <p name="clipprj.rotated">0</p>
+      </pl>
+    </o>
+
+    <!-- duplicate this component block for each part (qty times) -->
+    {COMPONENTS_BLOCK}
+
+    <!-- mandatory right spacing -->
+    <o name="" type="clipprj.mountingSpacingRight" id="{RIGHT_SPACING_ID}">
+      <pl>
+        <p name="clipprj.width">{RIGHT_WIDTH}</p>
+        <p name="clipprj.height">{RAIL_HEIGHT}</p>
+        <p name="clipprj.rotated">0</p>
+      </pl>
+    </o>
+  </ol>
+</o>
+-->
+<!--
+  ► Component block (repeat per quantity) ────────────────────────────────
+<o name="" type="clipprj.generic" id="{COMP_ID}">
+  <pl>
+    <p name="clipprj.articleNumber">{COMP_ARTICLE}</p>
+    <p name="clipprj.width">{COMP_WIDTH}</p>
+    <p name="clipprj.height">{COMP_HEIGHT}</p>
+    <p name="clipprj.description">{COMP_DESCRIPTION}</p>
+  </pl>
+</o>
+-->
+<!--
+  ► Reference block (append per component / rail) ────────────────────────
+<ref id="{REF_ID}" oid="{OBJ_ID}"/>
+-->
