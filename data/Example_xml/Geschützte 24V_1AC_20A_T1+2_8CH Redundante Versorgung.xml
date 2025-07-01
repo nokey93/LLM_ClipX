@@ -1,0 +1,100 @@
+<!-- Typ 1+2 Überspannungsschutz
+1-phasige QUINT POWER-Stromversorgung
+Redundanz Module
+8-kanaliger elektronischer Geräteschutz CBM -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <pl />
+ <o name="Geschützte 24V_1AC_20A_T1+2_8CH Redundante Versorgung " type="clipprj.project" id="0">
+  <pl>
+   <p name="clipprj.gapBetweenItems">0.03</p>
+  </pl>
+  <ol>
+   <o name="Schiene 1" type="clipprj.rail" id="1">
+    <pl>
+     <p name="clipprj.articleNumber">0801733</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 PERF 2000MM</p>
+     <p name="clipprj.length">411.00</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="2">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">0.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">222</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="3">
+      <pl>
+       <p name="clipprj.articleNumber">2905470</p>
+       <p name="clipprj.width">142.40</p>
+       <p name="clipprj.height">94.80</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">116</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="4">
+      <pl>
+       <p name="clipprj.articleNumber">2904602</p>
+       <p name="clipprj.width">70.10</p>
+       <p name="clipprj.height">130.70</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">191</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="5">
+      <pl>
+       <p name="clipprj.articleNumber">1088207</p>
+       <p name="clipprj.width">46.70</p>
+       <p name="clipprj.height">130.10</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">58</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="6">
+      <pl>
+       <p name="clipprj.articleNumber">2904602</p>
+       <p name="clipprj.width">70.10</p>
+       <p name="clipprj.height">130.70</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">85</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="7">
+      <pl>
+       <p name="clipprj.articleNumber">2905744</p>
+       <p name="clipprj.width">41.00</p>
+       <p name="clipprj.height">130.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">6</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="8">
+      <pl>
+       <p name="clipprj.width">0.52</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="9">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">0.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">225</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+  </ol>
+ </o>
+</pbf>
