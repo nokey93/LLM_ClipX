@@ -1,9 +1,3 @@
-<!-- Dezentralisierte und geschützte
-24V/1AC/20A/T3/8CH Redundante Versorgung
-Typ 3 Überspannungsschutz
-1-phasige QUINT POWER-Stromversorgung mit
-acht 1-kanaligen elektronischen Geräteschutzschalter -->
-
 <?xml version="1.0" encoding="utf-8"?>
 <pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <pl />

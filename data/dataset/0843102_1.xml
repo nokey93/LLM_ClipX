@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <pl />
+ <o name="Neues Projekt 1" type="clipprj.project" id="0">
+  <pl>
+   <p name="clipprj.gapBetweenItems">0.03</p>
+  </pl>
+  <ol>
+   <o name="Schiene 1" type="clipprj.rail" id="1">
+    <pl>
+     <p name="clipprj.articleNumber">0843102</p>
+     <p name="clipprj.articleDesignation">NS 35/ 7,5 AL UNPERF  2000MM VPE 10</p>
+     <p name="clipprj.length">332.40</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="2">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="cxe.spaceType">Fixed</p>
+       <p name="clipprj.connectionId">9747</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.separatingPlate" id="3">
+      <pl>
+       <p name="clipprj.articleNumber">3206209</p>
+       <p name="clipprj.width">2.00</p>
+       <p name="clipprj.height">64.40</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">9751</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="4">
+      <pl>
+       <p name="clipprj.articleNumber">1130682</p>
+       <p name="clipprj.width">45.94</p>
+       <p name="clipprj.height">99.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">9755</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.generic" id="5">
+      <pl>
+       <p name="clipprj.articleNumber">2800929</p>
+       <p name="clipprj.width">12.30</p>
+       <p name="clipprj.height">90.01</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">9762</p>
+       <p name="clipprj.extrasArtnums">2800910</p>
+      </pl>
+      <rl>
+       <r name="accessory" index="0" rid="0" />
+      </rl>
+     </o>
+     <o name="" type="clipprj.terminal" id="6">
+      <pl>
+       <p name="clipprj.articleNumber">2905241</p>
+       <p name="clipprj.width">232.00</p>
+       <p name="clipprj.height">127.80</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">9786</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="7">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="cxe.spaceType">Fixed</p>
+       <p name="clipprj.connectionId">9749</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="CB E1 24DC/3A S-R P" type="clipprj.svpPlug" id="8">
+    <pl>
+     <p name="clipprj.articleNumber">2800910</p>
+     <p name="clipprj.coordinates">6.15;55.40</p>
+     <p name="clipprj.description"></p>
+     <p name="clipprj.connectionpoints">9762</p>
+     <p name="clipprj.connectionId">9781</p>
+    </pl>
+   </o>
+  </ol>
+ </o>
+ <refs>
+  <ref id="0" oid="8" />
+ </refs>
+</pbf>

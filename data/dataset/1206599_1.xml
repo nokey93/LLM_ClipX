@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <pl />
+ <o name="Neues Projekt 1" type="clipprj.project" id="0">
+  <pl>
+   <p name="clipprj.gapBetweenItems">0.03</p>
+  </pl>
+  <ol>
+   <o name="Schiene 1" type="clipprj.rail" id="1">
+    <pl>
+     <p name="clipprj.articleNumber">1206599</p>
+     <p name="clipprj.articleDesignation">NS 35/15 ZN PERF 2000MM</p>
+     <p name="clipprj.length">384.90</p>
+     <p name="clipprj.edgeOfCut">12.5</p>
+     <p name="clipprj.zeroCutOffset">0</p>
+    </pl>
+    <ol>
+     <o name="" type="clipprj.mountingSpacingLeft" id="2">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="cxe.spaceType">Fixed</p>
+       <p name="clipprj.connectionId">25038</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="3">
+      <pl>
+       <p name="clipprj.articleNumber">1056839</p>
+       <p name="clipprj.width">33.80</p>
+       <p name="clipprj.height">64.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25042</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="4">
+      <pl>
+       <p name="clipprj.articleNumber">1290780</p>
+       <p name="clipprj.width">17.60</p>
+       <p name="clipprj.height">112.71</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25053</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="5">
+      <pl>
+       <p name="clipprj.articleNumber">2810625</p>
+       <p name="clipprj.width">22.60</p>
+       <p name="clipprj.height">104.63</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25070</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.powerSupply" id="6">
+      <pl>
+       <p name="clipprj.articleNumber">2866598</p>
+       <p name="clipprj.width">67.50</p>
+       <p name="clipprj.height">99.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25084</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="7">
+      <pl>
+       <p name="clipprj.articleNumber">2900455</p>
+       <p name="clipprj.width">6.20</p>
+       <p name="clipprj.height">80.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25097</p>
+       <p name="clipprj.extrasArtnums">2966605</p>
+      </pl>
+      <rl>
+       <r name="accessory" index="0" rid="0" />
+      </rl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="8">
+      <pl>
+       <p name="clipprj.articleNumber">2909670</p>
+       <p name="clipprj.width">6.15</p>
+       <p name="clipprj.height">80.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25114</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="9">
+      <pl>
+       <p name="clipprj.articleNumber">2967099</p>
+       <p name="clipprj.width">13.90</p>
+       <p name="clipprj.height">80.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25133</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="10">
+      <pl>
+       <p name="clipprj.articleNumber">1105107</p>
+       <p name="clipprj.width">22.60</p>
+       <p name="clipprj.height">107.74</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25154</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.signalConverter" id="11">
+      <pl>
+       <p name="clipprj.articleNumber">2963925</p>
+       <p name="clipprj.width">22.60</p>
+       <p name="clipprj.height">111.46</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25166</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="12">
+      <pl>
+       <p name="clipprj.articleNumber">1107578</p>
+       <p name="clipprj.width">6.15</p>
+       <p name="clipprj.height">84.56</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25220</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="13">
+      <pl>
+       <p name="clipprj.articleNumber">1033785</p>
+       <p name="clipprj.width">5.15</p>
+       <p name="clipprj.height">56.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25232</p>
+       <p name="clipprj.closed">1</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="14">
+      <pl>
+       <p name="clipprj.articleNumber">3273676</p>
+       <p name="clipprj.width">18.45</p>
+       <p name="clipprj.height">45.70</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25244</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="15">
+      <pl>
+       <p name="clipprj.width">1.61</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="16">
+      <pl>
+       <p name="clipprj.articleNumber">3273754</p>
+       <p name="clipprj.width">46.30</p>
+       <p name="clipprj.height">45.70</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25254</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.blockingSurface" id="17">
+      <pl>
+       <p name="clipprj.width">1.48</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="18">
+      <pl>
+       <p name="clipprj.articleNumber">3244473</p>
+       <p name="clipprj.width">3.50</p>
+       <p name="clipprj.height">121.70</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25275</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.terminal" id="19">
+      <pl>
+       <p name="clipprj.articleNumber">3270123</p>
+       <p name="clipprj.width">8.30</p>
+       <p name="clipprj.height">63.60</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25305</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.svp" id="20">
+      <pl>
+       <p name="clipprj.articleNumber">2856113</p>
+       <p name="clipprj.width">17.70</p>
+       <p name="clipprj.height">90.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25184</p>
+       <p name="clipprj.extrasArtnums">2856032</p>
+      </pl>
+      <rl>
+       <r name="accessory" index="0" rid="1" />
+      </rl>
+     </o>
+     <o name="" type="clipprj.terminal" id="21">
+      <pl>
+       <p name="clipprj.articleNumber">3209581</p>
+       <p name="clipprj.width">5.15</p>
+       <p name="clipprj.height">72.20</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25194</p>
+      </pl>
+     </o>
+     <o name="" type="clipprj.svp" id="22">
+      <pl>
+       <p name="clipprj.articleNumber">2856126</p>
+       <p name="clipprj.width">17.70</p>
+       <p name="clipprj.height">90.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="clipprj.connectionId">25210</p>
+       <p name="clipprj.extrasArtnums">2858030</p>
+      </pl>
+      <rl>
+       <r name="accessory" index="0" rid="2" />
+      </rl>
+     </o>
+     <o name="" type="clipprj.mountingSpacingRight" id="23">
+      <pl>
+       <p name="clipprj.articleNumber"></p>
+       <p name="clipprj.width">20.00</p>
+       <p name="clipprj.height">35.00</p>
+       <p name="clipprj.rotated">0</p>
+       <p name="clipprj.description"></p>
+       <p name="cxe.spaceType">Fixed</p>
+       <p name="clipprj.connectionId">25040</p>
+      </pl>
+     </o>
+    </ol>
+   </o>
+   <o name="OPT-60DC/ 24DC/  2" type="clipprj.plcPlug" id="24">
+    <pl>
+     <p name="clipprj.articleNumber">2966605</p>
+     <p name="clipprj.coordinates">4.40;36.71</p>
+     <p name="clipprj.description"></p>
+     <p name="clipprj.connectionpoints">25097</p>
+     <p name="clipprj.connectionId">25112</p>
+    </pl>
+   </o>
+   <o name="PT 1X2-24DC-ST" type="clipprj.svpPlug" id="25">
+    <pl>
+     <p name="clipprj.articleNumber">2856032</p>
+     <p name="clipprj.coordinates">9.25;62.00</p>
+     <p name="clipprj.description"></p>
+     <p name="clipprj.connectionpoints">25184</p>
+     <p name="clipprj.connectionId">25191</p>
+    </pl>
+   </o>
+   <o name="PT 3-PB-ST" type="clipprj.svpPlug" id="26">
+    <pl>
+     <p name="clipprj.articleNumber">2858030</p>
+     <p name="clipprj.coordinates">9.25;62.00</p>
+     <p name="clipprj.description"></p>
+     <p name="clipprj.connectionpoints">25210</p>
+     <p name="clipprj.connectionId">25217</p>
+    </pl>
+   </o>
+  </ol>
+ </o>
+ <refs>
+  <ref id="0" oid="24" />
+  <ref id="1" oid="25" />
+  <ref id="2" oid="26" />
+ </refs>
+</pbf>

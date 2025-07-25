@@ -1,5 +1,3 @@
-<!-- 3-phasige TRIO POWER-Stromversorgung mit drei 4-kanaligen
-elektronischen Geräteschutz CBMC. -->
 <?xml version="1.0" encoding="utf-8"?>
 <pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <pl />

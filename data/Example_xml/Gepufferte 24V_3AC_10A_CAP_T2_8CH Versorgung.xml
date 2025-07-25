@@ -1,7 +1,3 @@
-<!-- Typ 2 Überspannungsschutz
-3-phasige QUINT POWER-Stromversorgung 
-CAP-Modul
-8 x 1-kanaliger elektronischer Geräteschutz und Energiemonitoring -->
 <?xml version="1.0" encoding="utf-8"?>
 <pbf version="2.1" format="ecad" xsi:noNameSpaceSchemaLocation="pbf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <pl />
